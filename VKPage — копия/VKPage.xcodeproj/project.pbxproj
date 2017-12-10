@@ -13,6 +13,21 @@
 		80260A841F7E6EB20026DAAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80260A821F7E6EB20026DAAC /* Main.storyboard */; };
 		80260A861F7E6EB20026DAAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80260A851F7E6EB20026DAAC /* Assets.xcassets */; };
 		80260A891F7E6EB20026DAAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80260A871F7E6EB20026DAAC /* LaunchScreen.storyboard */; };
+		808B2CCE1FDD609F0099A616 /* InfoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CCD1FDD609F0099A616 /* InfoTableViewController.swift */; };
+		808B2CD11FDD97D00099A616 /* StatusTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CCF1FDD97D00099A616 /* StatusTableViewCell.swift */; };
+		808B2CD21FDD97D00099A616 /* StatusTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 808B2CD01FDD97D00099A616 /* StatusTableViewCell.xib */; };
+		808B2CD51FDD986C0099A616 /* InfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CD31FDD986C0099A616 /* InfoTableViewCell.swift */; };
+		808B2CD61FDD986C0099A616 /* InfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 808B2CD41FDD986C0099A616 /* InfoTableViewCell.xib */; };
+		808B2CD91FDD98CF0099A616 /* ContactsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CD71FDD98CF0099A616 /* ContactsTableViewCell.swift */; };
+		808B2CDA1FDD98CF0099A616 /* ContactsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 808B2CD81FDD98CF0099A616 /* ContactsTableViewCell.xib */; };
+		808B2CDD1FDD99300099A616 /* CareerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CDB1FDD99300099A616 /* CareerTableViewCell.swift */; };
+		808B2CDE1FDD99300099A616 /* CareerTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 808B2CDC1FDD99300099A616 /* CareerTableViewCell.xib */; };
+		808B2CE11FDD99EB0099A616 /* EducationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CDF1FDD99EB0099A616 /* EducationTableViewCell.swift */; };
+		808B2CE21FDD99EB0099A616 /* EducationTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 808B2CE01FDD99EB0099A616 /* EducationTableViewCell.xib */; };
+		808B2CE51FDD9A360099A616 /* GiftsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CE31FDD9A360099A616 /* GiftsTableViewCell.swift */; };
+		808B2CE61FDD9A360099A616 /* GiftsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 808B2CE41FDD9A360099A616 /* GiftsTableViewCell.xib */; };
+		808B2CE91FDD9A9C0099A616 /* OthersInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 808B2CE71FDD9A9C0099A616 /* OthersInfoTableViewCell.swift */; };
+		808B2CEA1FDD9A9C0099A616 /* OthersInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 808B2CE81FDD9A9C0099A616 /* OthersInfoTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		80260A851F7E6EB20026DAAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80260A881F7E6EB20026DAAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80260A8A1F7E6EB20026DAAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		808B2CCD1FDD609F0099A616 /* InfoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoTableViewController.swift; sourceTree = "<group>"; };
+		808B2CCF1FDD97D00099A616 /* StatusTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusTableViewCell.swift; sourceTree = "<group>"; };
+		808B2CD01FDD97D00099A616 /* StatusTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StatusTableViewCell.xib; sourceTree = "<group>"; };
+		808B2CD31FDD986C0099A616 /* InfoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoTableViewCell.swift; sourceTree = "<group>"; };
+		808B2CD41FDD986C0099A616 /* InfoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = InfoTableViewCell.xib; sourceTree = "<group>"; };
+		808B2CD71FDD98CF0099A616 /* ContactsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsTableViewCell.swift; sourceTree = "<group>"; };
+		808B2CD81FDD98CF0099A616 /* ContactsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ContactsTableViewCell.xib; sourceTree = "<group>"; };
+		808B2CDB1FDD99300099A616 /* CareerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareerTableViewCell.swift; sourceTree = "<group>"; };
+		808B2CDC1FDD99300099A616 /* CareerTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CareerTableViewCell.xib; sourceTree = "<group>"; };
+		808B2CDF1FDD99EB0099A616 /* EducationTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EducationTableViewCell.swift; sourceTree = "<group>"; };
+		808B2CE01FDD99EB0099A616 /* EducationTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EducationTableViewCell.xib; sourceTree = "<group>"; };
+		808B2CE31FDD9A360099A616 /* GiftsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiftsTableViewCell.swift; sourceTree = "<group>"; };
+		808B2CE41FDD9A360099A616 /* GiftsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GiftsTableViewCell.xib; sourceTree = "<group>"; };
+		808B2CE71FDD9A9C0099A616 /* OthersInfoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OthersInfoTableViewCell.swift; sourceTree = "<group>"; };
+		808B2CE81FDD9A9C0099A616 /* OthersInfoTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OthersInfoTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +89,25 @@
 				80260A7E1F7E6EB20026DAAC /* AppDelegate.swift */,
 				80260A801F7E6EB20026DAAC /* ViewController.swift */,
 				8004734F1FD7152400829792 /* SubscribersTableViewController.swift */,
+				808B2CCD1FDD609F0099A616 /* InfoTableViewController.swift */,
 				80260A821F7E6EB20026DAAC /* Main.storyboard */,
 				80260A851F7E6EB20026DAAC /* Assets.xcassets */,
 				80260A871F7E6EB20026DAAC /* LaunchScreen.storyboard */,
 				80260A8A1F7E6EB20026DAAC /* Info.plist */,
+				808B2CCF1FDD97D00099A616 /* StatusTableViewCell.swift */,
+				808B2CD01FDD97D00099A616 /* StatusTableViewCell.xib */,
+				808B2CD31FDD986C0099A616 /* InfoTableViewCell.swift */,
+				808B2CD41FDD986C0099A616 /* InfoTableViewCell.xib */,
+				808B2CD71FDD98CF0099A616 /* ContactsTableViewCell.swift */,
+				808B2CD81FDD98CF0099A616 /* ContactsTableViewCell.xib */,
+				808B2CDB1FDD99300099A616 /* CareerTableViewCell.swift */,
+				808B2CDC1FDD99300099A616 /* CareerTableViewCell.xib */,
+				808B2CDF1FDD99EB0099A616 /* EducationTableViewCell.swift */,
+				808B2CE01FDD99EB0099A616 /* EducationTableViewCell.xib */,
+				808B2CE31FDD9A360099A616 /* GiftsTableViewCell.swift */,
+				808B2CE41FDD9A360099A616 /* GiftsTableViewCell.xib */,
+				808B2CE71FDD9A9C0099A616 /* OthersInfoTableViewCell.swift */,
+				808B2CE81FDD9A9C0099A616 /* OthersInfoTableViewCell.xib */,
 			);
 			path = VKPage;
 			sourceTree = "<group>";
@@ -126,9 +171,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				808B2CD61FDD986C0099A616 /* InfoTableViewCell.xib in Resources */,
 				80260A891F7E6EB20026DAAC /* LaunchScreen.storyboard in Resources */,
+				808B2CE21FDD99EB0099A616 /* EducationTableViewCell.xib in Resources */,
 				80260A861F7E6EB20026DAAC /* Assets.xcassets in Resources */,
+				808B2CEA1FDD9A9C0099A616 /* OthersInfoTableViewCell.xib in Resources */,
 				80260A841F7E6EB20026DAAC /* Main.storyboard in Resources */,
+				808B2CDA1FDD98CF0099A616 /* ContactsTableViewCell.xib in Resources */,
+				808B2CDE1FDD99300099A616 /* CareerTableViewCell.xib in Resources */,
+				808B2CD21FDD97D00099A616 /* StatusTableViewCell.xib in Resources */,
+				808B2CE61FDD9A360099A616 /* GiftsTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,9 +191,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				808B2CE11FDD99EB0099A616 /* EducationTableViewCell.swift in Sources */,
+				808B2CE51FDD9A360099A616 /* GiftsTableViewCell.swift in Sources */,
+				808B2CD91FDD98CF0099A616 /* ContactsTableViewCell.swift in Sources */,
+				808B2CE91FDD9A9C0099A616 /* OthersInfoTableViewCell.swift in Sources */,
+				808B2CDD1FDD99300099A616 /* CareerTableViewCell.swift in Sources */,
 				80260A811F7E6EB20026DAAC /* ViewController.swift in Sources */,
+				808B2CD11FDD97D00099A616 /* StatusTableViewCell.swift in Sources */,
 				800473501FD7152400829792 /* SubscribersTableViewController.swift in Sources */,
+				808B2CD51FDD986C0099A616 /* InfoTableViewCell.swift in Sources */,
 				80260A7F1F7E6EB20026DAAC /* AppDelegate.swift in Sources */,
+				808B2CCE1FDD609F0099A616 /* InfoTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
